@@ -1,0 +1,1 @@
+This repository demonstrates a common logic error in COBOL programs: premature loop termination due to a GO TO statement within a conditional block.  The bug.cob file shows the erroneous code. The bugSolution.cob file offers a corrected version using structured programming techniques to avoid the unintended jump.
